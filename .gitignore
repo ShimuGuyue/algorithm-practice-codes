@@ -1,0 +1,23 @@
+
+### 文件资源管理器
+
+folder.ico
+
+desktop.ini
+
+
+
+### VS Code
+
+*.code-workspace
+
+.vscode/
+
+
+
+### 工作区
+
+.test/
+
+.todo/
+
