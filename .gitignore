@@ -19,7 +19,5 @@ desktop.ini
 
 .test/
 
-.todo/
-
 **/*.cpp
 
