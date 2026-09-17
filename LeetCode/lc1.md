@@ -1,6 +1,6 @@
 
 
-```
+```cpp
 class Solution
 {
 public:
